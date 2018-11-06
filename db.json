@@ -1,12 +1,12 @@
 {
   "vehicles": [
-    { "vehicleId": "AAA111", "model": "Audi" },
-    { "vehicleId": "BBB111", "model": "Bentley" },
-    { "vehicleId": "CCC111", "model": "Citroen" },
-    { "vehicleId": "DDD111", "model": "Dodge" }
+    { "id": 1,"vehicleId": "AAA111", "model": "Audi" },
+    { "id": 2,"vehicleId": "BBB111", "model": "Bentley" },
+    { "id": 3,"vehicleId": "CCC111", "model": "Citroen" },
+    { "id": 4,"vehicleId": "DDD111", "model": "Dodge" }
   ],
   "user": [
-    { "key": "123456", "name": "Asd Fgh", "email": "asdfgh@aaa.hu" }
+    { "id": 1,"key": "123456", "name": "Asd Fgh", "email": "asdfgh@aaa.hu" }
   ],
   "records": [
     { "vehicleId": "AAA111", "speedometerValue": "50666" }
