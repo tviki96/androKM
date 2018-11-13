@@ -2,8 +2,7 @@
   "vehicles": [
     { "id": 1,"license": "AAA111", "model": "Audi" },
     { "id": 2,"license": "BBB111", "model": "Bentley" },
-    { "id": 3,"license": "CCC111", "model": "Citroen" },
-    { "id": 4,"license": "DDD111", "model": "Dodge" }
+    { "id": 3,"license": "CCC111", "model": "Citroen" }
   ],
   "user": [
     { "id": 1,"key": "123456", "name": "Aaa Aaa", "email": "asdfgh@aaa.hu" }
