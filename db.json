@@ -5,7 +5,7 @@
     { "id": 3,"license": "CCC111", "model": "Citroen" },
     { "id": 4,"license": "DDD111", "model": "Dodge" }
   ],
-  "users": [
+  "init": [
     { "id": 1,"key": "123456", "name": "Aaa Aaa", "email": "asdfgh@aaa.hu" },
     { "id": 2,"key": "987654", "name": "Bbb Asd", "email": "asdfgh@aaa.hu" },
     { "id": 3,"key": "111111", "name": "Ccc Fgh", "email": "asdfgh@aaa.hu" }
