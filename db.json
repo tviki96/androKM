@@ -5,9 +5,8 @@
     { "id": 3,"license": "CCC111", "model": "Citroen" },
     { "id": 4,"license": "DDD111", "model": "Dodge" }
   ],
-  "user": [
-    { "id": 1,"key": "123456", "name": "Aaa Aaa", "email": "asdfgh@aaa.hu" }
-  ],
+  "user":
+    { "id": 1,"key": "123456", "name": "Aaa Aaa", "email": "asdfgh@aaa.hu" },
   "records": [
     { "license": "AAA111", "speedometerValue": "50666" }
   ]
